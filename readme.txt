@@ -8,3 +8,4 @@ Start learnning Github.
 Createing a new branch is quick and simple.
 disable Fast forward.
 Git is a free software.
+Now I am study Git.
